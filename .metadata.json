@@ -1,0 +1,34 @@
+[
+  {
+    "package": "AWR",
+    "oncran": true
+  },
+  {
+    "package": "AWR.Kinesis",
+    "oncran": true
+  },
+  {
+    "package": "AWR.KMS",
+    "oncran": true
+  },
+  {
+    "package": "binancer",
+    "oncran": true
+  },
+  {
+    "package": "botor",
+    "oncran": true
+  },
+  {
+    "package": "fbRads",
+    "oncran": true
+  },
+  {
+    "package": "logger",
+    "oncran": true
+  },
+  {
+    "package": "migration.indices",
+    "oncran": true
+  }
+]
