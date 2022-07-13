@@ -8,6 +8,16 @@
 	url = https://github.com/daroczig/awr
 	shallow = true
 	registered = true
+[submodule "AWR.Kinesis"]
+	path = AWR.Kinesis
+	url = https://github.com/daroczig/awr.kinesis
+	shallow = true
+	registered = true
+[submodule "AWR.KMS"]
+	path = AWR.KMS
+	url = https://github.com/daroczig/awr.kms
+	shallow = true
+	registered = true
 [submodule "binancer"]
 	path = binancer
 	url = https://github.com/daroczig/binancer
@@ -16,6 +26,11 @@
 [submodule "botor"]
 	path = botor
 	url = https://github.com/daroczig/botor
+	shallow = true
+	registered = true
+[submodule "fbRads"]
+	path = fbRads
+	url = https://github.com/daroczig/fbrads
 	shallow = true
 	registered = true
 [submodule "logger"]
