@@ -22,13 +22,5 @@
   {
     "package": "fbRads",
     "oncran": true
-  },
-  {
-    "package": "logger",
-    "oncran": true
-  },
-  {
-    "package": "migration.indices",
-    "oncran": true
   }
 ]
