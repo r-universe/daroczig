@@ -3,9 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "AWR.KMS"]
-	path = AWR.KMS
-	url = https://github.com/daroczig/awr.kms
+[submodule "AWR"]
+	path = AWR
+	url = https://github.com/daroczig/awr
 	shallow = true
 	registered = true
 [submodule "AWR.Kinesis"]
@@ -13,9 +13,9 @@
 	url = https://github.com/daroczig/awr.kinesis
 	shallow = true
 	registered = true
-[submodule "fbRads"]
-	path = fbRads
-	url = https://github.com/daroczig/fbrads
+[submodule "AWR.KMS"]
+	path = AWR.KMS
+	url = https://github.com/daroczig/awr.kms
 	shallow = true
 	registered = true
 [submodule "binancer"]
@@ -23,23 +23,23 @@
 	url = https://github.com/daroczig/binancer
 	shallow = true
 	registered = true
-[submodule "AWR"]
-	path = AWR
-	url = https://github.com/daroczig/awr
-	shallow = true
-	registered = true
 [submodule "botor"]
 	path = botor
 	url = https://github.com/daroczig/botor
 	shallow = true
 	registered = true
-[submodule "migration.indices"]
-	path = migration.indices
-	url = https://github.com/daroczig/migration.indices
+[submodule "fbRads"]
+	path = fbRads
+	url = https://github.com/daroczig/fbrads
 	shallow = true
 	registered = true
 [submodule "logger"]
 	path = logger
 	url = https://github.com/daroczig/logger
+	shallow = true
+	registered = true
+[submodule "migration.indices"]
+	path = migration.indices
+	url = https://github.com/daroczig/migration.indices
 	shallow = true
 	registered = true

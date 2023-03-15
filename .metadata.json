@@ -1,6 +1,6 @@
 [
   {
-    "package": "AWR.KMS",
+    "package": "AWR",
     "oncran": true
   },
   {
@@ -8,7 +8,7 @@
     "oncran": true
   },
   {
-    "package": "fbRads",
+    "package": "AWR.KMS",
     "oncran": true
   },
   {
@@ -16,19 +16,19 @@
     "oncran": true
   },
   {
-    "package": "AWR",
-    "oncran": true
-  },
-  {
     "package": "botor",
     "oncran": true
   },
   {
-    "package": "migration.indices",
+    "package": "fbRads",
     "oncran": true
   },
   {
     "package": "logger",
+    "oncran": true
+  },
+  {
+    "package": "migration.indices",
     "oncran": true
   }
 ]
