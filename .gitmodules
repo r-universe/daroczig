@@ -5,12 +5,12 @@
 [submodule "AWR"]
 	path = AWR
 	url = https://github.com/daroczig/awr
-[submodule "AWR.Kinesis"]
-	path = AWR.Kinesis
-	url = https://github.com/daroczig/awr.kinesis
 [submodule "AWR.KMS"]
 	path = AWR.KMS
 	url = https://github.com/daroczig/awr.kms
+[submodule "AWR.Kinesis"]
+	path = AWR.Kinesis
+	url = https://github.com/daroczig/awr.kinesis
 [submodule "binancer"]
 	path = binancer
 	url = https://github.com/daroczig/binancer
